@@ -5,4 +5,9 @@ Lost traveler simulation using random walk
 
 ## How?
 
-Just run `python rw.py` and enjoy it. It also generate a GIF image :))
+Just run `python rw.py` and enjoy it. 
+
+It also generate a GIF image :))
+
+![Image description](movie.gif)
+
